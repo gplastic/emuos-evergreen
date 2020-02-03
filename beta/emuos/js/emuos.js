@@ -267,10 +267,10 @@
 				width: 640,
 				height: 480
 			} , {
-				name: 'Half-Life 1',
+				name: 'Half-Life 3',
 				title: 'Under Development',
 				icon: 'https://emupedia.net/emupedia-game-half-life1/favicon.ico',
-				link: 'https://emupedia.net/emupedia-game-half-life1/index.html',
+				link: 'https://github.com/Emupedia/emupedia.github.io',
 				width: 640,
 				height: 480
 			} , {
