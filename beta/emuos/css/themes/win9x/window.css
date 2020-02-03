@@ -2,8 +2,8 @@
 
 .theme-win9x .emuos-window {
 	border-radius: 0;
-	border: 1px solid #dfdfdf;
-	background-color: #fff;
+	border: 1px solid #dfdfdf71;
+	background-color: rgba(255, 255, 255, 0.438);
 	padding: 3px;
 }
 
@@ -15,7 +15,7 @@
 	content: '';
 	width: calc(100% - 6px);
 	height: calc(100% - 6px);
-	border: 2px solid #c0c0c0;
+	border: 2px solid #c0c0c069;
 }
 
 /*noinspection CssOptimizeSimilarProperties,CssReplaceWithShorthandSafely*/
@@ -42,7 +42,7 @@
 	background: -webkit-gradient(linear, left top, right top, color-stop(0, #268d07), color-stop(100%, #c1f0a6)) !important;
 	background: -webkit-linear-gradient(left, #268d07, #c1f0a6) !important;
 	border: none;
-	border-bottom: 1px solid #c0c0c0;
+	border-bottom: 1px solid #c0c0c05e;
 	color: #fff;
 }
 
