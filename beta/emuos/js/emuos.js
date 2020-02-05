@@ -347,6 +347,13 @@
 				width: 900,
 				height: 480,
 				singleinstance: true
+			} , {
+				name: 'Settings',
+				icon: 'images/icons/discord.ico',
+				link: 'settings/settings.html',
+				width: 900,
+				height: 480,
+				singleinstance: true
 			}]
 		};
 
