@@ -268,9 +268,9 @@
 				height: 480
 			} , {
 				name: 'Half-Life 3',
-				title: 'Under Development',
+				title: 'Coming Soon',
 				icon: 'https://emupedia.net/emupedia-game-half-life1/favicon.ico',
-				link: 'https://github.com/Emupedia/emupedia.github.io',
+				link: 'https://gplastic.github.io/emupedia-testing-house/beta/emuos/',
 				width: 640,
 				height: 480
 			} , {
