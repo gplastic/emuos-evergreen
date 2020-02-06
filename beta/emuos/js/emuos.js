@@ -44,17 +44,9 @@
 				width: 824,
 				height: 624
 			} , {
-				name: 'ÐeKaÐeNcE',
-				title: 'Under Development',
-				icon: 'images/icons/dekadence.ico',
-				link: 'https://launcher.dekadence.ro',
-				width: 900,
-				height: 480
-			} , {
 				name: 'Windows 93',
 				icon: 'images/icons/windows93.ico',
-				// link: 'https://explorer.emupedia.net/aHR0cHMlM0ElMkYlMkZ2MS53aW5kb3dzOTMubmV0JTJG',
-				link: 'https://v1.windows93.net',
+				link: 'https://explorer.emupedia.net/aHR0cHMlM0ElMkYlMkZ2MS53aW5kb3dzOTMubmV0JTJG',
 				width: 960,
 				height: 734
 			} , {
@@ -66,15 +58,15 @@
 			} , {
 				name: 'Visual Studio Code',
 				title: 'Under Development',
-				icon: 'https://emupedia.net/emupedia-app-vscode/favicon.ico',
-				link: 'https://emupedia.net/emupedia-app-vscode/index.html',
+				icon: 'https://emuos.net/emupedia-app-vscode/favicon.ico',
+				link: 'https://emuos.net/emupedia-app-vscode/index.html',
 				width: 900,
 				height: 480
 			} , {
 				name: 'Sandbox',
 				title: 'Under Development',
-				icon: 'https://emupedia.net/emupedia-app-sandbox/favicon.ico',
-				link: 'https://emupedia.net/emupedia-app-sandbox/index.html?repo=Emupedia/emupedia-app-sandbox/contents/examples?ref=master&baseurl=https://emupedia.net/emupedia-app-romcenter/&capsule=%3Cbody%3E&capsule=%3C/body%3E',
+				icon: 'https://emuos.net/emupedia-app-sandbox/favicon.ico',
+				link: 'https://emuos.net/emupedia-app-sandbox/index.html?repo=Emupedia/emupedia-app-sandbox/contents/examples?ref=master&baseurl=https://emuos.net/emupedia-app-romcenter/&capsule=%3Cbody%3E&capsule=%3C/body%3E',
 				width: 900,
 				height: 480
 			} , {
@@ -97,14 +89,14 @@
 				height: 552
 			} , {
 				name: 'Cookie Clicker',
-				icon: 'https://emupedia.net/emupedia-game-cookie-clicker/favicon.png',
-				link: 'https://emupedia.net/emupedia-game-cookie-clicker/index.html',
+				icon: 'https://emuos.net/emupedia-game-cookie-clicker/favicon.png',
+				link: 'https://emuos.net/emupedia-game-cookie-clicker/index.html',
 				width: 1090,
 				height: 600
 			} , {
 				name: 'Flappy Bird',
-				icon: 'https://emupedia.net/emupedia-game-flappy-bird/favicon.png',
-				link: 'https://emupedia.net/emupedia-game-flappy-bird/index.html',
+				icon: 'https://emuos.net/emupedia-game-flappy-bird/favicon.png',
+				link: 'https://emuos.net/emupedia-game-flappy-bird/index.html',
 				width: 432,
 				height: 600
 			} , {
@@ -131,33 +123,33 @@
 			} , {
 				name: 'Wings 2.0<br />(Prototype)',
 				title: 'Under Development',
-				icon: 'https://emupedia.net/emupedia-game-wings2/favicon.ico',
-				link: 'https://emupedia.net/emupedia-game-wings2/index.html',
+				icon: 'https://emuos.net/emupedia-game-wings2/favicon.ico',
+				link: 'https://emuos.net/emupedia-game-wings2/index.html',
 				width: 900,
 				height: 480
 			} , {
 				name: 'Worms 2<br />(Prototype)',
 				title: 'Under Development',
-				icon: 'https://emupedia.net/emupedia-game-worms2/favicon.ico',
-				link: 'https://emupedia.net/emupedia-game-worms2/index.html',
+				icon: 'https://emuos.net/emupedia-game-worms2/favicon.ico',
+				link: 'https://emuos.net/emupedia-game-worms2/index.html',
 				width: 900,
 				height: 480
 			} , {
 				name: 'Biolab Disaster',
-				icon: 'https://emupedia.net/emupedia-game-biolab-disaster/favicon.png',
-				link: 'https://emupedia.net/emupedia-game-biolab-disaster/index.html',
+				icon: 'https://emuos.net/emupedia-game-biolab-disaster/favicon.png',
+				link: 'https://emuos.net/emupedia-game-biolab-disaster/index.html',
 				width: 720,
 				height: 480
 			} , {
 				name: 'Super Blob Blaster',
-				icon: 'https://emupedia.net/emupedia-game-super-blob-blaster/favicon.png',
-				link: 'https://emupedia.net/emupedia-game-super-blob-blaster/index.html',
+				icon: 'https://emuos.net/emupedia-game-super-blob-blaster/favicon.png',
+				link: 'https://emuos.net/emupedia-game-super-blob-blaster/index.html',
 				width: 720,
 				height: 480
 			} , {
 				name: 'Pac-Man',
-				icon: 'https://emupedia.net/emupedia-game-pac-man/favicon.ico',
-				link: 'https://emupedia.net/emupedia-game-pac-man/index.html',
+				icon: 'https://emuos.net/emupedia-game-pac-man/favicon.ico',
+				link: 'https://emuos.net/emupedia-game-pac-man/index.html',
 				width: 1025,
 				height: 715
 			} , {
@@ -169,47 +161,47 @@
 			} , {
 				name: 'ASCIICKER<br />(Demo)',
 				title: 'Under Development',
-				icon: 'https://emupedia.net/emupedia-demo-asciicker/favicon.ico',
-				link: 'https://emupedia.net/emupedia-demo-asciicker/index.html',
+				icon: 'https://emuos.net/emupedia-demo-asciicker/favicon.ico',
+				link: 'https://emuos.net/emupedia-demo-asciicker/index.html',
 				width: 640,
 				height: 480
 			} , {
 				name: '3D Spatial Audio<br />(Demo)',
-				icon: 'https://emupedia.net/emupedia-demo-3d-spatial-audio/favicon.ico',
-				link: 'https://emupedia.net/emupedia-demo-3d-spatial-audio/index.html',
+				icon: 'https://emuos.net/emupedia-demo-3d-spatial-audio/favicon.ico',
+				link: 'https://emuos.net/emupedia-demo-3d-spatial-audio/index.html',
 				width: 900,
 				height: 480
 			} , {
 				name: 'Voxel Space<br />(Demo)',
-				icon: 'https://emupedia.net/emupedia-demo-voxel-space/favicon.ico',
-				link: 'https://emupedia.net/emupedia-demo-voxel-space/index.html',
+				icon: 'https://emuos.net/emupedia-demo-voxel-space/favicon.ico',
+				link: 'https://emuos.net/emupedia-demo-voxel-space/index.html',
 				width: 900,
 				height: 480
 			} , {
 				name: '8-bit Palette Color Cycling<br />(Demo)',
-				icon: 'https://emupedia.net/emupedia-app-8-bit-palette-color-cycling/favicon.ico',
-				link: 'https://emupedia.net/emupedia-app-8-bit-palette-color-cycling/index.html',
+				icon: 'https://emuos.net/emupedia-app-8-bit-palette-color-cycling/favicon.ico',
+				link: 'https://emuos.net/emupedia-app-8-bit-palette-color-cycling/index.html',
 				width: 900,
 				height: 550
 			} , {
 				name: 'RomCenter',
 				title: 'Under Development',
-				icon: 'https://emupedia.net/emupedia-app-romcenter/favicon.ico',
-				link: 'https://emupedia.net/emupedia-app-romcenter/index.html',
+				icon: 'https://emuos.net/emupedia-app-romcenter/favicon.ico',
+				link: 'https://emuos.net/emupedia-app-romcenter/index.html',
 				width: 900,
 				height: 480
 			} , {
 				name: 'DOSBox',
 				title: 'Under Development',
-				icon: 'https://emupedia.net/emupedia-app-dosbox/favicon.ico',
-				link: 'https://emupedia.net/emupedia-app-dosbox/index.html',
+				icon: 'https://emuos.net/emupedia-app-dosbox/favicon.ico',
+				link: 'https://emuos.net/emupedia-app-dosbox/index.html',
 				width: 640,
 				height: 422
 			} , {
 				// name: 'Street Fighter Alpha: Warriors\' Dreams',
 				name: 'Street Fighter Alpha<br />(Demo)',
 				title: 'Under Development',
-				icon: 'https://emupedia.net/emupedia-game-street-fighter-alpha/images/icons/' + function() {
+				icon: 'https://emuos.net/emupedia-game-street-fighter-alpha/images/icons/' + function() {
 					var icons = [
 						'akuma',
 						'balrog',
@@ -227,103 +219,103 @@
 
 					return icons[Math.floor(Math.random() * icons.length)];
 				}() + '.ico',
-				link: 'https://emupedia.net/emupedia-game-street-fighter-alpha/index.html',
+				link: 'https://emuos.net/emupedia-game-street-fighter-alpha/index.html',
 				width: 1068,
 				height: 576
 			} , {
 				name: 'Wolfenstein 3D',
-				icon: (SYSTEM_FEATURE_CANVAS ? 'https://emupedia.net/emupedia-game-wolfenstein-3d-canvas' : 'https://emupedia.net/emupedia-game-wolfenstein-3d') + '/favicon.gif',
-				link: (SYSTEM_FEATURE_CANVAS ? 'https://emupedia.net/emupedia-game-wolfenstein-3d-canvas' : 'https://emupedia.net/emupedia-game-wolfenstein-3d') + '/index.html',
+				icon: (SYSTEM_FEATURE_CANVAS ? 'https://emuos.net/emupedia-game-wolfenstein-3d-canvas' : 'https://emuos.net/emupedia-game-wolfenstein-3d') + '/favicon.gif',
+				link: (SYSTEM_FEATURE_CANVAS ? 'https://emuos.net/emupedia-game-wolfenstein-3d-canvas' : 'https://emuos.net/emupedia-game-wolfenstein-3d') + '/index.html',
 				width: SYSTEM_FEATURE_CANVAS ? 960 : 640,
 				height: SYSTEM_FEATURE_CANVAS ? 600 : 400
 			} , {
 				name: 'Doom 1',
-				icon: 'https://emupedia.net/emupedia-game-doom1/favicon.gif',
-				link: 'https://emupedia.net/emupedia-game-doom1/' + (SYSTEM_FEATURE_WEBASSEMBLY ? '/' : 'asmjs/') + 'index.html',
+				icon: 'https://emuos.net/emupedia-game-doom1/favicon.gif',
+				link: 'https://emuos.net/emupedia-game-doom1/' + (SYSTEM_FEATURE_WEBASSEMBLY ? '/' : 'asmjs/') + 'index.html',
 				width: 640,
 				height: 400
 			} , {
 				name: 'Doom 2: Hell on Earth',
-				icon: 'https://emupedia.net/emupedia-game-doom2/favicon.gif',
-				link: 'https://emupedia.net/emupedia-game-doom2/' + (SYSTEM_FEATURE_WEBASSEMBLY ? '/' : 'asmjs/') + 'index.html',
+				icon: 'https://emuos.net/emupedia-game-doom2/favicon.gif',
+				link: 'https://emuos.net/emupedia-game-doom2/' + (SYSTEM_FEATURE_WEBASSEMBLY ? '/' : 'asmjs/') + 'index.html',
 				width: 640,
 				height: 400
 			} , {
 				name: 'Doom 3',
-				icon: 'https://emupedia.net/emupedia-game-doom3/favicon.ico',
-				link: 'https://emupedia.net/emupedia-game-doom3/index.html',
+				icon: 'https://emuos.net/emupedia-game-doom3/favicon.ico',
+				link: 'https://emuos.net/emupedia-game-doom3/index.html',
 				width: 640,
 				height: 480
 			} , {
 				name: 'Quake 1',
-				icon: 'https://emupedia.net/emupedia-game-quake1/favicon.ico',
-				link: 'https://emupedia.net/emupedia-game-quake1/' + (SYSTEM_FEATURE_ES6 && SYSTEM_FEATURE_ES7_ASYNC_AWAIT ? 'async.html' : 'index.html'),
+				icon: 'https://emuos.net/emupedia-game-quake1/favicon.ico',
+				link: 'https://emuos.net/emupedia-game-quake1/' + (SYSTEM_FEATURE_ES6 && SYSTEM_FEATURE_ES7_ASYNC_AWAIT ? 'async.html' : 'index.html'),
 				width: 640,
 				height: 480
 			} , {
 				name: 'Quake 2',
-				icon: 'https://emupedia.net/emupedia-game-quake2/favicon.ico',
-				link: 'https://emupedia.net/emupedia-game-quake2/index.html',
+				icon: 'https://emuos.net/emupedia-game-quake2/favicon.ico',
+				link: 'https://emuos.net/emupedia-game-quake2/index.html',
 				width: 640,
 				height: 480
 			} , {
 				name: 'Half-Life 3',
 				title: 'Coming Soon',
-				icon: 'https://emupedia.net/emupedia-game-half-life1/favicon.ico',
+				icon: 'https://emuos.net/emupedia-game-half-life1/favicon.ico',
 				link: 'https://gplastic.github.io/emupedia-testing-house/beta/emuos/',
 				width: 640,
 				height: 480
 			} , {
 				name: 'Diablo 1',
 				title: 'Under Development',
-				icon: 'https://emupedia.net/emupedia-game-diablo1/favicon.ico',
-				link: 'https://emupedia.net/emupedia-game-diablo1/index.html',
+				icon: 'https://emuos.net/emupedia-game-diablo1/favicon.ico',
+				link: 'https://emuos.net/emupedia-game-diablo1/index.html',
 				width: 640,
 				height: 480
 			} , {
 				name: 'Dark Reign: The Future of War',
 				title: 'Under Development',
-				icon: 'https://emupedia.net/emupedia-game-dark-reign/favicon.ico',
-				link: 'https://emupedia.net/emupedia-game-dark-reign/index.html',
+				icon: 'https://emuos.net/emupedia-game-dark-reign/favicon.ico',
+				link: 'https://emuos.net/emupedia-game-dark-reign/index.html',
 				width: 640,
 				height: 480
 			} , {
 				name: 'Command and Conquer',
 				title: 'Under Development',
-				icon: 'https://emupedia.net/emupedia-game-command-and-conquer1/favicon.ico',
-				link: 'https://emupedia.net/emupedia-game-command-and-conquer1/index.html',
+				icon: 'https://emuos.net/emupedia-game-command-and-conquer1/favicon.ico',
+				link: 'https://emuos.net/emupedia-game-command-and-conquer1/index.html',
 				width: 640,
 				height: 535
 			} , {
 				name: 'Minecraft',
 				title: 'Under Development',
-				icon: 'https://emupedia.net/emupedia-game-minecraft-classic/favicon.ico',
-				link: 'https://emupedia.net/emupedia-game-minecraft-classic/index.html',
+				icon: 'https://emuos.net/emupedia-game-minecraft-classic/favicon.ico',
+				link: 'https://emuos.net/emupedia-game-minecraft-classic/index.html',
 				width: 900,
 				height: 480
 			} , {
 				name: 'Winamp',
-				icon: 'https://emupedia.net/emupedia-app-winamp/favicon.ico',
-				link: 'https://emupedia.net/emupedia-app-winamp/index.html',
+				icon: 'https://emuos.net/emupedia-app-winamp/favicon.ico',
+				link: 'https://emuos.net/emupedia-app-winamp/index.html',
 				width: 900,
 				height: 480
 			} , {
 				name: 'Notepad',
-				icon: 'https://emupedia.net/emupedia-app-notepad/favicon.ico',
-				link: 'https://emupedia.net/emupedia-app-notepad/index.html',
+				icon: 'https://emuos.net/emupedia-app-notepad/favicon.ico',
+				link: 'https://emuos.net/emupedia-app-notepad/index.html',
 				width: 900,
 				height: 480,
 				runonce: true
 			} , {
 				name: 'Paint',
-				icon: 'https://emupedia.net/emupedia-app-paint/favicon.ico',
-				link: 'https://emupedia.net/emupedia-app-paint/index.html',
+				icon: 'https://emuos.net/emupedia-app-paint/favicon.ico',
+				link: 'https://emuos.net/emupedia-app-paint/index.html',
 				width: 900,
 				height: 480
 			} , {
 				name: 'SVG Editor',
-				icon: 'https://emupedia.net/emupedia-app-svg-editor/favicon.ico',
-				link: 'https://emupedia.net/emupedia-app-svg-editor/index.html',
+				icon: 'https://emuos.net/emupedia-app-svg-editor/favicon.ico',
+				link: 'https://emuos.net/emupedia-app-svg-editor/index.html',
 				width: 900,
 				height: 480
 			} , {
@@ -335,8 +327,8 @@
 				height: 630
 			} , {
 				name: 'EmuChat',
-				icon: 'https://emupedia.net/emupedia-app-emuchat/favicon.ico',
-				link: 'https://emupedia.net/emupedia-app-emuchat/index.html',
+				icon: 'https://emuos.net/emupedia-app-emuchat/favicon.ico',
+				link: 'https://emuos.net/emupedia-app-emuchat/index.html',
 				width: 900,
 				height: 480,
 				singleinstance: true
@@ -530,7 +522,7 @@
 								if (typeof eSheep.prototype.Start === 'function') {
 									var pets = ['esheep64', 'green_sheep', 'neko', 'pingus', 'ssj-goku'];
 									var pet = pets[~~(Math.random() * pets.length)];
-									var path = 'https://emupedia.net/emupedia-app-esheep/pets/' + pet + '/animations.xml';
+									var path = 'https://emuos.net/emupedia-app-esheep/pets/' + pet + '/animations.xml';
 
 									if (path) {
 										new eSheep({
@@ -595,7 +587,7 @@
 										/*setInterval(function() {
 											move();
 										}, 3000 + (Math.random() * 4000));*/
-									}, undefined, 'https://emupedia.net/emupedia-app-clippy/agents/');
+									}, undefined, 'https://emuos.net/emupedia-app-clippy/agents/');
 								}
 							}
 							break;
