@@ -341,7 +341,7 @@
 				singleinstance: true
 			} , {
 				name: 'Settings',
-				icon: 'images/icons/discord.ico',
+				icon: 'images/icons/gearbox.png',
 				link: 'settings/settings.html',
 				width: 900,
 				height: 480,
